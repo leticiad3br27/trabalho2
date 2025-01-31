@@ -3,7 +3,7 @@ import "./globals.css";
 import Header from "@/components/Header/Header"
 
 export const metadata = {
-  title: "Clinica da laços",
+  title: "Silva",
   description: "Aplicação de Front-End II",
   charset: 'UTF-8',
   author: 'Leticia',

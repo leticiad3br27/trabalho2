@@ -6,7 +6,7 @@ export default function Home() {
     <div className={styles.page}>
       <main className={styles.main}>
         <Image
-          className={styles.logo}
+         className={styles.logo}
           src="/next.svg"
           alt="Next.js logo"
           width={180}
@@ -22,13 +22,13 @@ export default function Home() {
 
         <div className={styles.ctas}>
           <a
-            className={styles.primary}
+           className={styles.primary}
             href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
             target="_blank"
             rel="noopener noreferrer"
           >
             <Image
-              className={styles.logo}
+             className={styles.logo}
               src="/vercel.svg"
               alt="Vercel logomark"
               width={20}
@@ -40,7 +40,7 @@ export default function Home() {
             href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
             target="_blank"
             rel="noopener noreferrer"
-            className={styles.secondary}
+           className={styles.secondary}
           >
             Read our docs
           </a>
